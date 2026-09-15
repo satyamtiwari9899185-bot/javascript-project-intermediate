@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+body{
+    background-color: greenyellow;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+#outerBox{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+#innerBox{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: whitesmoke;
+}
+button{
+    height: 100px;
+    width: 100px;
+    color: black;
+    background-color: aqua;
+    border-radius: 25px;
+}
+button:hover{
+    color: white;
+    background-color: brown;
+}
