@@ -11,6 +11,7 @@ body{
     height: 300px;
     width: 300px;
     background-color: aquamarine;
+    border: 2px solid black;
     display: flex;
     text-align: center;
     align-items: center;
@@ -18,6 +19,7 @@ body{
 #inner{
     height: 100px;
     width: 100px;
+    border: 2px solid black;
     background-color: white;
 }
 button{
