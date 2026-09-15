@@ -1,6 +1,25 @@
 h1{
     color: greenyellow;
 }
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+#outer{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
 button{
     height: 30px;
     width: 100px;
